@@ -2,8 +2,8 @@ package com.chris.bitrate;
 
 import java.io.File;
 
-public class Bitrate
-{
+public class Bitrate {
+	
 	private File file;
 	private Long bitrate;
 	

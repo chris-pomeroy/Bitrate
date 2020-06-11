@@ -12,8 +12,8 @@ import net.bramp.ffmpeg.FFprobe;
 import net.bramp.ffmpeg.probe.FFmpegFormat;
 import net.bramp.ffmpeg.probe.FFmpegProbeResult;
 
-public class App 
-{
+public class App {
+	
     private static FFprobe ffprobe;
     private static List<Bitrate> results = new ArrayList<>();
     public static void main( String[] args ) throws IOException {
